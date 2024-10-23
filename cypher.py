@@ -61,7 +61,7 @@ while True:
                 print('..................Bruteforce....................\n')
                 text = get_text()
                 print('\t..................Doing Bruteforce....................\n')
-                print(f'{brute_force(text)}\n')
+                brute_force(text)
             case 4:
                 print('Exiting..........')
                 exit()
