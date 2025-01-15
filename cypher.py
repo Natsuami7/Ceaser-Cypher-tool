@@ -4,7 +4,7 @@
 Title : Ceaser Cypher Tool
 Author : Chaitanya Shah
 Class : CYSE1002
-Date : th October 2024
+Date : October 2024
 
 Description :
 This is a ceaser cypher tool which is used to encode and decode the text provided by the user.
